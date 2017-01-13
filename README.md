@@ -31,7 +31,7 @@
         startActivityForResult(intent,TAKE_PHONE);
     }
 
-2.注册存储照的容器
+2.在AndroidManifest中注册存储照的容器
 
 
     <!--
