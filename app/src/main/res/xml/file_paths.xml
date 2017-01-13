@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths >
+    <external-path name="my_image" path="" />
+
+    <!--
+    <files-path/>代表的根目录： Context.getFilesDir()
+    <external-path/>代表的根目录: Environment.getExternalStorageDirectory()
+    <cache-path/>代表的根目录: getCacheDir()
+
+    name属性值可以随便填 path属性值表示共享的具体路径，设置为空，表示将整个SD卡目录进行共享，也可以设置共享的具体路径
+    -->
+</paths>
